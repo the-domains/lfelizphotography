@@ -1,0 +1,28 @@
+name: Lfelizphotography
+favicon: null
+layout_spectrum: 0.7782767349854112
+typography_spectrum: 0.6395985917188227
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.39760900125838816
+  lightness: 0.4914603321813047
+  saturation: 0.4695118176750839
+  rhythmicContrast: 0.2681480401661247
+purpose: []
