@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Lfelizphotography]]></title>
+        <description><![CDATA[Lfelizphotography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 00:53:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[WELCOME TO LFELIZPHOTOGRAPHY]]></title>
+            <description><![CDATA[<article><h1>WELCOME TO LFELIZPHOTOGRAPHY</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/09825d0ef6e25bcbe5fbc5fb6f1fd4e749920d50.jpg"></article>]]></description>
+            <link>undefinedwelcome-the-world-my-eyes-have-seen/index.html</link>
+            <guid isPermaLink="false">dbd36bbb-1108-40c0-a876-45665e5ae943</guid>
+            <pubDate>Tue, 12 Jan 2016 00:53:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
