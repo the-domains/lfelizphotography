@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.4695118176750839
   brandStrength: 0
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Lfelizphotography
 favicon: null
+name: Lfelizphotography
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.6395985917188227
-layout_spectrum: 0.0106383
+layout_spectrum: 0.7255319
