@@ -4,7 +4,7 @@
         <description><![CDATA[Lfelizphotography]]></description>
         <link>https://thegrid.ai/lfelizphotography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jan 2016 01:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jan 2016 01:22:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lfelizphotography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[WELCOME TO LFELIZPHOTOGRAPHY]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/lfelizphotography/welcome-the-world-my-eyes-have-seen/index.html</link>
             <guid isPermaLink="false">dbd36bbb-1108-40c0-a876-45665e5ae943</guid>
             <pubDate>Tue, 12 Jan 2016 01:12:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>till testing and </p>]]></description>
+            <link>https://thegrid.ai/lfelizphotography/fb5e8d26-57d1-463a-8179-c575b1fe7812/index.html</link>
+            <guid isPermaLink="false">fb5e8d26-57d1-463a-8179-c575b1fe7812</guid>
+            <pubDate>Tue, 12 Jan 2016 01:22:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
