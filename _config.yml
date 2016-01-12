@@ -1,29 +1,41 @@
-name: Lfelizphotography
-favicon: null
-layout_spectrum: 0.59867
-typography_spectrum: 0.6395985917188227
 title: PHOTOGRAPHY PAGE
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.4695118176750839
+  brandStrength: 0
+  rhythmicContrast: 0.2681480401661247
   brandColors:
     - '#060606'
     - '#393939'
     - '#585858'
     - '#a7a7a7'
     - '#fdfdfd'
-  brandStrength: 0
   lightness: 0.4914603321813047
-  saturation: 0.4695118176750839
-  rhythmicContrast: 0.2681480401661247
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Lfelizphotography
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6395985917188227
+layout_spectrum: 0.0106383
